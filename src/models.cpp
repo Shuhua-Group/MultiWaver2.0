@@ -21,7 +21,7 @@ bool models::isGA = true;
 bool models::isMulti = true;
 
 int models::MultiMaxWave = 2;
-int models::MultiMaxPop = 2;
+int models::MultiMaxPop = 5;
 int models::MaxInter = 10000;
 double models::epsilon = 1e-6;
 double models::critical = 0.001;
